@@ -1,5 +1,1 @@
-body {
-  margin: 0;
-  background-color: #f3f4f6;
-  font-family: system-ui, -apple-system, sans-serif;
-}
+
