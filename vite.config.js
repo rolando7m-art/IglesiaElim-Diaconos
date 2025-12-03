@@ -1,7 +1,5 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-// https://vitejs.dev/config/
-export default defineConfig({
-  plugins: [react()],
-})
+body {
+  margin: 0;
+  background-color: #f3f4f6;
+  font-family: system-ui, -apple-system, sans-serif;
+}
